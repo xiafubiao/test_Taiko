@@ -1,3 +1,5 @@
+Please note this repo is a test demo to show how to use the verax on Taiko. Check the verax branch [here](https://github.com/pado-labs/linea-attestation-registry/tree/feat/deploy-on-taiko/) 
+
 ## How to use the SDK (Now)?
 
 1. Create your dApp locally, e.g., use Vite tool to create a **TypeScipt** project **B**.
